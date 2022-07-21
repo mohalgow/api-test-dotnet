@@ -14,8 +14,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notes", "Notes", "{13B68718
 		AssertionInMSTest.txt = AssertionInMSTest.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevOpsTest", "AzureDevOpsTest\AzureDevOpsTest.csproj", "{25C2DC91-D5B5-4E76-BB28-2DBE7EE63A74}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
